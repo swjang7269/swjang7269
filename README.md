@@ -9,8 +9,9 @@
 
 ### Stack
 
-### Tools
 
+### Tools
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=#181717&logoColor=white"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=020715,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
