@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=020715&height=200&section=header&text=JangSiwon&fontSize=50&fontColor=eeffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=020715&height=20&section=header />
+
+##swjang7269
 
 
 
